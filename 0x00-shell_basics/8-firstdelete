@@ -1,2 +1,2 @@
 #!/bin/bash
-rm mtmp/first_directory
+rm tmp/first_directory
